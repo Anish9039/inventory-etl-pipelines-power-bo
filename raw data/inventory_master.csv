@@ -1,0 +1,6 @@
+Product_ID,Product_Name,Current_Stock,Reorder_Point
+P101,Laptop,17,20
+P102,Mouse,11,20
+P103,Keyboard,35,20
+P104,Monitor,18,20
+P105,Headset,38,20
