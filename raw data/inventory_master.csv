@@ -1,6 +1,51 @@
-Product_ID,Product_Name,Current_Stock,Reorder_Point
-P101,Laptop,17,20
-P102,Mouse,11,20
-P103,Keyboard,35,20
-P104,Monitor,18,20
-P105,Headset,38,20
+Product_ID,Product_Name,Category,Current_Stock,Reorder_Point
+P100,Ergo USB Hub,Accessories,475,26
+P101,Office Webcam,Accessories,9,43
+P102,Budget HDMI Cable,Cables,307,45
+P103,Slim Smartwatch,Electronics,487,22
+P104,Gaming Mouse,Accessories,251,47
+P105,Slim Power Cord,Cables,11,26
+P106,Gaming Mouse Pad,Furniture,439,39
+P107,Slim Mouse Pad,Furniture,243,30
+P108,Office Tablet,Electronics,433,42
+P109,Office Standing Desk,Furniture,314,33
+P110,Ergo Standing Desk,Furniture,310,30
+P111,Office Tablet,Electronics,428,24
+P112,Office Mouse Pad,Furniture,13,39
+P113,Office Smartwatch,Electronics,2,23
+P114,Budget USB-C Cable,Cables,10,46
+P115,Ergo Smartphone,Electronics,374,28
+P116,Office Mouse,Accessories,202,37
+P117,Office Keyboard,Accessories,485,41
+P118,Slim Smartwatch,Electronics,45,38
+P119,Budget USB Hub,Accessories,46,37
+P120,Budget Monitor,Electronics,41,25
+P121,Pro Smartwatch,Electronics,473,24
+P122,Ergo Laptop,Electronics,405,21
+P123,Ergo Desk Lamp,Furniture,402,49
+P124,Office USB-C Cable,Cables,426,22
+P125,Budget Smartphone,Electronics,334,46
+P126,Pro USB Hub,Accessories,44,35
+P127,Slim Power Cord,Cables,241,33
+P128,Budget HDMI Cable,Cables,226,22
+P129,Pro Desk Lamp,Furniture,299,35
+P130,Budget Standing Desk,Furniture,289,32
+P131,Slim Keyboard,Accessories,30,24
+P132,Gaming Laptop,Electronics,54,49
+P133,Gaming Monitor,Electronics,450,30
+P134,Budget Desk Lamp,Furniture,13,50
+P135,Pro Desk Lamp,Furniture,460,27
+P136,Gaming Smartphone,Electronics,18,22
+P137,Slim Laptop,Electronics,320,45
+P138,Pro Monitor,Electronics,482,36
+P139,Pro USB Hub,Accessories,52,34
+P140,Pro Ethernet Cable,Cables,48,32
+P141,Pro Smartwatch,Electronics,424,49
+P142,Slim Standing Desk,Furniture,41,29
+P143,Budget Power Cord,Cables,215,31
+P144,Gaming Tablet,Electronics,10,46
+P145,Gaming Mouse Pad,Furniture,218,35
+P146,Office Tablet,Electronics,304,38
+P147,Gaming Ethernet Cable,Cables,317,49
+P148,Office Ethernet Cable,Cables,306,44
+P149,Gaming Desk Lamp,Furniture,10,29

@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Current_Stock,Reorder_Point
+P100,Pro HDMI Cable,Cables,425,30
+P101,Super Laptop,Electronics,406,30
+P102,Basic HDMI Cable,Cables,391,30
+P103,Pro Desk Lamp,Furniture,179,30
+P104,Basic Keyboard,Accessories,400,30
+P105,Super Desk Lamp,Furniture,391,30
+P106,Super HDMI Cable,Cables,197,30
+P107,Basic Headset,Accessories,402,30
+P108,Pro Smartphone,Electronics,406,30
+P109,Super Smartphone,Electronics,120,30
+P110,Pro Keyboard,Accessories,222,30
+P111,Pro Desk Lamp,Furniture,403,30
+P112,Super USB-C Cable,Cables,271,30
+P113,Basic Smartphone,Electronics,394,30
+P114,Pro Webcam,Accessories,237,30
+P115,Basic HDMI Cable,Cables,423,30
+P116,Super Ethernet Cable,Cables,412,30
+P117,Super Laptop,Electronics,392,30
+P118,Super Monitor,Electronics,475,30
+P119,Pro HDMI Cable,Cables,376,30
+P120,Pro Tablet,Electronics,411,30
+P121,Super Laptop,Electronics,363,30
+P122,Super Smartphone,Electronics,406,30
+P123,Pro Headset,Accessories,388,30
+P124,Super Mouse,Accessories,181,30
+P125,Super Keyboard,Accessories,406,30
+P126,Super Keyboard,Accessories,399,30
+P127,Basic Mouse,Accessories,401,30
+P128,Pro Laptop,Electronics,413,30
+P129,Super Ethernet Cable,Cables,396,30
+P130,Basic Office Chair,Furniture,203,30
+P131,Basic Monitor,Electronics,415,30
+P132,Pro Laptop,Electronics,167,30
+P133,Basic Office Chair,Furniture,412,30
+P134,Basic Standing Desk,Furniture,388,30
+P135,Super Ethernet Cable,Cables,424,30
+P136,Super Keyboard,Accessories,402,30
+P137,Basic Laptop,Electronics,212,30
+P138,Pro Webcam,Accessories,406,30
+P139,Super Headset,Accessories,241,30
+P140,Super USB-C Cable,Cables,397,30
+P141,Basic Tablet,Electronics,370,30
+P142,Pro Laptop,Electronics,416,30
+P143,Basic Mouse,Accessories,240,30
+P144,Basic Keyboard,Accessories,374,30
+P145,Basic USB-C Cable,Cables,370,30
+P146,Super Ethernet Cable,Cables,404,30
+P147,Basic Smartphone,Electronics,415,30
+P148,Basic Standing Desk,Furniture,198,30
+P149,Super Keyboard,Accessories,415,30
